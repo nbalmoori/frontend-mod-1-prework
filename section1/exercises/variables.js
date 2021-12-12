@@ -23,22 +23,36 @@ console.log(enrolledStudents);
 // YOU DO:
 // Write code below to save the string 'Harry Potter must not return to Hogwarts!'
 // log that variable to the console.
-
+var punishment = "Harry Potter must not return to Hogwarts!"
+console.log(punishment)
 
 // YOU DO:
-// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`. 
+// Declare three variables, named `firstName`, `isHungry` and `numberOfPets`.
   // Store the appropriate data types in each.
 // log all three variables to the console.
+var firstName = "Nikki"
+var isHungry = "not hungry"
+var numberOfPets = 0
+console.log (firstName + " is " + isHungry + " and has " + numberOfPets + " pets")
+
+
 
 // IN WORDS:
-// How did you decide to use the data type you did for each of the three variables above? 
+// How did you decide to use the data type you did for each of the three variables above?
   // Explain.
+
+console.log ("I decided to make the firstName a string because it is text. I also decided to make isHungry a string as well to describe the hunger, but it could have also been a Boolean as well.  numberOfPets made the most sense to be a number because it is an amount.")
 
 
 // YOU DO:
-// Re-assign the values to the three variables from the previous challenge to different 
+// Re-assign the values to the three variables from the previous challenge to different
   // values (but same data type).
 // log all three variables to the console.
+firstName = "Stephanie"
+isHungry = "hungry"
+numberOfPets = 1
+
+console.log (firstName + " is " + isHungry + " and has " + numberOfPets + " pet")
 
 
 // YOU DO:
@@ -46,10 +60,12 @@ console.log(enrolledStudents);
 var healthySnacks = 6;
 var junkFoodSnacks = 8;
 
+console.log(healthySnacks + junkFoodSnacks)
+
 
 //-------------------
 // FINAL CHECK
 //-------------------
 
-// Did you run this file in your terminal to make sure everything printed out to the console 
-// as you would expect? 
+// Did you run this file in your terminal to make sure everything printed out to the console
+// as you would expect?
