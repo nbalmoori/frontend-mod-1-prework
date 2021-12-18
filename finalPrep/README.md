@@ -68,7 +68,6 @@ When you have completed *ALL* the activities described above, follow the steps b
 
 ![click new pr](/images/fe_s1.png)
 
-
 <br>
 2. On the Pull Request page, make sure you see something similar to below (but with your username):
 
