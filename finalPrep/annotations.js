@@ -36,7 +36,6 @@ buildABear('Fluffy', 4, 'brown', ['pants', 'jorts', 'tanktop'], 'give you nightm
 buildABear('Sleepy', 2, 'purple', ['pajamas', 'sleeping cap'], 'sleeping in');
 
 
-
 //FizzBuzz
 
 //Create a function called fizzBuzz with three parameters called num1, num2, and range.

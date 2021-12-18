@@ -51,7 +51,6 @@ console.log(archEnemies[archEnemies.length-1])
 
 archEnemies.push("Poison Ivy")
 
-
 // Print the archEnemies array to console to ensure you added a new archEnemy
 console.log(archEnemies);
 
