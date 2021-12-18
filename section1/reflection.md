@@ -31,7 +31,8 @@
 8. Think of a site or app you use frequently. Where do you think the developers used concatenation?
 
   - Facebook might use concatenation when showing a user's post tagged with another person:
-`console.log("nameOfUser" + " is with " + "taggedFriend")``
+
+  `console.log("nameOfUser" + " is with " + "taggedFriend")`
 
 9. What questions do you still have about the work we've done so far? (not having a question is not an option)
 
